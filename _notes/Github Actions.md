@@ -14,6 +14,8 @@ Actions provide a way to automate, customize, and execute your software developm
 
 Loads of things can trigger actions, most useful is `push`, `pull_request` for normal development things, and [`schedule`](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule) for regular/cron jobs.
 
+---
+
 ### Sources
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
