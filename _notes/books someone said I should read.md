@@ -1,0 +1,54 @@
+---
+---
+In no particular order
+
+- <https://www.amazon.co.uk/Language-Chronology-Computers-Gregory-Toner/dp/9004410031>
+- <https://www.amazon.co.uk/Cognitive-Behavioral-Therapy-Overcoming-Depression-ebook/dp/B08LSDDVCM>
+- <https://www.amazon.co.uk/Cloth-Experience-Smithsonian-ethnographic-inquiry/dp/0874749956>
+- <https://www.amazon.co.uk/Textiles-Whole-Story-Meanings-Significance/dp/0500291136>
+- <https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/>
+- <https://www.amazon.co.uk/dp/B095VY4XGD>
+- <https://www.amazon.co.uk/PixlPeople-Cross-Stitch-Your-Favorite-People/dp/0764361910>
+- <https://www.amazon.co.uk/dp/1919621601/>
+- <https://www.amazon.co.uk/dp/B09Q6SYBJR>
+- <https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/>
+- <http://www.howtomakesenseofanymess.com/>
+- <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>
+- <https://www.goodreads.com/book/show/24737268-badass>
+- <https://www.goodreads.com/series/43723-the-steerswoman>
+- <https://www.goodreads.com/series/198015-tensorate>
+- <https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management>
+- <https://mitpress.mit.edu/books/metadata>
+- <https://link.springer.com/book/10.1007/978-3-030-86144-5>
+- <https://www.openbookpublishers.com/10.11647/obp.0192.10.pdf>
+- <https://booksilkroadstextiles.artsci.utoronto.ca/?page_id=743>
+- <https://www.penguin.co.uk/books/311/311987/index--a-history-of-the/9780241374238.html>
+- <https://carletonu.pressbooks.pub/digh5000/chapter/chapter-6-accessibility-and-design/>
+- <https://link.springer.com/book/10.1007/978-3-319-20170-2>
+- <https://bookshop.org/books/write-and-organize-for-deeper-learning-28-evidence-based-and-easy-to-apply-tactics-that-will-make-your-instruction-better-for-learning/9781545162408>
+- <https://2020-eu.semantics.cc/knowledge-graph-cookbook>
+- <https://www.sciencedirect.com/book/9780123740373/sketching-user-experiences>
+- <https://computingbook.org/>
+- <https://aosabook.org/en/index.html>
+- <https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html>
+- <https://raytracing.github.io/books/RayTracingInOneWeekend.html>
+- <https://maadmob.com.au/speaking/books/practical-ia>
+- <https://livebook.manning.com/book/code-like-a-pro/about-this-book/>
+- <https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/>
+- <https://www.wisdom.weizmann.ac.il/~harel/STM.Book/chapter1.pdf/>
+- <https://www.notion.so/1e6aa053a4124c2b9718924d76dc0832?v=77481f43e6e849fd85dca55ac8208704>
+- <https://futuretextpublishing.com/future-of-text-2020-download/>
+- <https://nlp.stanford.edu/IR-book/>
+- <https://booknlp.pythonhumanities.com/intro.html>
+- <https://www.taylorfrancis.com/books/edit/10.4324/9781315612195/text-editing-print-digital-world-kathryn-sutherland-marilyn-deegan>
+- <https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003131816/information-knowledge-organisation-digital-humanities-koraljka-golub-ying-hsang-liu>
+- <https://www.dataorienteddesign.com/dodbook/>
+- <https://www.winghamwoolwork.co.uk/yarnitecture.html>
+- <https://www.winghamwoolwork.co.uk/the-spinners-book-of-fleece.html>
+- <https://www.intellectbooks.com/design-and-the-digital-humanities>
+- <https://books.google.co.uk/books/about/Key_Ideas_in_Linguistics_and_the_Philoso.html?id=SyKlBgAAQBAJ&redir_esc=y>
+- <https://github.com/jakevdp/PythonDataScienceHandbook>
+- <https://github.com/getify/Functional-Light-JS#book>
+- <https://homotopytypetheory.org/book/>
+- <https://gnosis.cx/TPiP/>
+- <https://mitpress.mit.edu/books/little-typer>

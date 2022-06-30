@@ -1,0 +1,3 @@
+---
+---
+- [ethical design resources](https://www.ethicaldesignresources.com/) including designing physical and digital products, ethics and other things.
