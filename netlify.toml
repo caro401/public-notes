@@ -1,5 +1,5 @@
 [build]
-  command = "jekyll build --trace"
+  command = "JEKYLL_ENV=production NODE_ENV=production jekyll build --trace"
   publish = "_site"
 [[headers]]
   for = '*.woff2'

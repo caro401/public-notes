@@ -1,6 +1,13 @@
 title:               Notes
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
+exclude:
+ - _includes/notes_graph.json
+ - tailwind.config.js
+ - postcss.config.js
+ - package.json
+ - package-lock.json
+ - netlify.toml
+ - README.md
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
@@ -24,10 +31,7 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
-  - jekyll-postcss
-
-postcss:
-  cache: false
+  - jekyll-postcss-v2
 
 collections:
   notes:
