@@ -1,3 +1,7 @@
 [build]
   command = "jekyll build --trace"
   publish = "_site"
+[[headers]]
+  for = '*.woff2'
+  [headers.values]
+    cache-control = 'public, max-age=31536000'

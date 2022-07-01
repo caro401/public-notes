@@ -24,10 +24,10 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-postcss
 
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+postcss:
+  cache: false
 
 collections:
   notes:
