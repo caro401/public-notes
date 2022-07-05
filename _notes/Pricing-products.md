@@ -26,4 +26,4 @@ You could use some strategies like these to help with raising prices:
 
 ### Sources
 
-- [[Gumroad 14 day product challenge course]]
+-  Gumroad [[14 day product challenge]] course
