@@ -7,3 +7,4 @@
 - [tips about sustainable knitting](https://newwaveknitting.com/10-awesome-ways-to-be-a-more-sustainable-knitter/)
 - [Fill](https://www.fillrefill.co/product-category/house/clean/) is probably a good source of bulk sustainable washing up liquid for processing fleece
 - [Maria Sigma](https://www.mariasigma.com/philosophy) writes about her sustainability choices
+- [Teemill](https://teemill.com/) might be a not terrible option for print on demand tshirts, since they take back used clothes and turn them into new products. Is this better overall than printing by hand on shirts from charity shops? Probably?
