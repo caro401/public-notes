@@ -62,9 +62,7 @@
   blockquote > p {
     @apply p-0;
   }
-  blockquote p:last-of-type::after {
-    content: '';
-  }
+
   cite {
     @apply block w-full text-right mt-5 italic font-normal text-lime-700 dark:text-lime-300;
   }

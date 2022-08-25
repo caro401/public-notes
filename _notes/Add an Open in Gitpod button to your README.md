@@ -1,5 +1,5 @@
 ---
-id: 20220823060529-open-in-gipod
+id: 20220823060529-open-in-gitpod
 ---
 
 I like to add [Gitpod](https://www.gitpod.io/) buttons to the README files of GitHub repos that are good for using with Gitpod (ie not developing desktop GUI software), so I, or any potential other contributors, can get an environment up and running quickly.
@@ -22,4 +22,4 @@ and the resulting button
 
 ### Sources
 
-	- [Gitpod's docs](https://www.gitpod.io/docs/getting-started#open-in-gitpod-button)
+- [Gitpod's docs](https://www.gitpod.io/docs/getting-started#open-in-gitpod-button)
