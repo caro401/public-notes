@@ -22,4 +22,4 @@ and the resulting button
 
 ### Sources
 
-- [Gitpod's docs](https://www.gitpod.io/docs/getting-started#open-in-gitpod-button)
+	- [Gitpod's docs](https://www.gitpod.io/docs/getting-started#open-in-gitpod-button)

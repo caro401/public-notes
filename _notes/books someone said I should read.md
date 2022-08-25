@@ -2,7 +2,6 @@
 ---
 In no particular order
 
-- <https://www.amazon.co.uk/Language-Chronology-Computers-Gregory-Toner/dp/9004410031>
 - <https://www.amazon.co.uk/Cognitive-Behavioral-Therapy-Overcoming-Depression-ebook/dp/B08LSDDVCM>
 - <https://www.amazon.co.uk/Cloth-Experience-Smithsonian-ethnographic-inquiry/dp/0874749956>
 - <https://www.amazon.co.uk/Textiles-Whole-Story-Meanings-Significance/dp/0500291136>
