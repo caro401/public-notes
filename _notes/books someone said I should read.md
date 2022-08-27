@@ -42,7 +42,6 @@ In no particular order
 - <https://www.taylorfrancis.com/books/edit/10.4324/9781315612195/text-editing-print-digital-world-kathryn-sutherland-marilyn-deegan>
 - <https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003131816/information-knowledge-organisation-digital-humanities-koraljka-golub-ying-hsang-liu>
 - <https://www.dataorienteddesign.com/dodbook/>
-- <https://www.winghamwoolwork.co.uk/yarnitecture.html>
 - <https://www.winghamwoolwork.co.uk/the-spinners-book-of-fleece.html>
 - <https://www.intellectbooks.com/design-and-the-digital-humanities>
 - <https://books.google.co.uk/books/about/Key_Ideas_in_Linguistics_and_the_Philoso.html?id=SyKlBgAAQBAJ&redir_esc=y>
@@ -54,3 +53,4 @@ In no particular order
 - [Contesting archives](https://twitter.com/juliannenyhan/status/1445385576711139330) [(Archived)](https://web.archive.org/web/20220825/https://twitter.com/juliannenyhan/status/1445385576711139330)
 - [Information and knowledge organisation in Digital Humanities](https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516) [(Archived)](https://web.archive.org/web/20220825/https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516)
 - [Digital Humanities and Creativity: Intersections](https://pub.colnes.org/index.php/anis/article/view/95) [(Archived)](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
+- [Small sharp software tools](https://pragprog.com/titles/bhcldev/small-sharp-software-tools/)
