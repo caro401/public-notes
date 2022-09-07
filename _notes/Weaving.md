@@ -10,5 +10,8 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
 
 ## Glossary
 
+- [[Shed is the opening formed when warp threads are separated]]
+- [[Pick is a single weft thread in a fabric]]
+
 ## Reference materials and general sources
 
