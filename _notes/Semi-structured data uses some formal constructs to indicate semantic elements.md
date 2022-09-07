@@ -1,7 +1,6 @@
 ---
 id: 20220907140929-semi-structured-data
-alias: "Semi-structured data uses some formal constructs to indicate semantic elements"
-title: "Publish"
+title: "Semi-structured data uses some formal constructs to indicate semantic elements"
 created: 2022-09-07-14:09
 last-modified: 2022-09-07-14:09
 ---
