@@ -8,6 +8,10 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
  
 - [[Clasped Weft Weaving]]
 
+
+projects
+
+- [[Notebook Covers on a rigid heddle loom]]
 ## Glossary
 
 - [[Shed is the opening formed when warp threads are separated]]
