@@ -54,3 +54,7 @@ In no particular order
 - [Information and knowledge organisation in Digital Humanities](https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516) [(Archived)](https://web.archive.org/web/20220825/https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516)
 - [Digital Humanities and Creativity: Intersections](https://pub.colnes.org/index.php/anis/article/view/95) [(Archived)](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
 - [Small sharp software tools](https://pragprog.com/titles/bhcldev/small-sharp-software-tools/)
+- [Using Digital Humanities in the Classroom](https://www.amazon.com/dp/1350180890)
+- [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available)
+- [The Missing README](https://www.amazon.com/exec/obidos/ASIN/1718501838) recommended on the Teaching Python podcast 
+- [Field Guide to Fleece](https://www.amazon.co.uk/Field-Guide-Fleece-Deborah-Robson/dp/1612121780/)

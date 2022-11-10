@@ -46,3 +46,5 @@
 - [vanora](https://knitty.com/ISSUEss19/PATTvanora/PATTvanora.php) lace top
 - [calash hooded scarf](https://knitty.com/ISSUEdf19/PATTcalash/PATTcalash.php)
 - [open road rib top](https://knitty.com/ISSUEw19/PATTopenroad/PATTopenroad.php)
+- [Dala horse patterned mittens](https://www.ravelry.com/patterns/library/dala-selbu-hybrid--dala-selbuvotter) great norwegian-swedish knitting mashup
+- [Blacksod hat](https://www.whiletheydream.com/blacksod-hat/) with a gorgeous massive cable panel
