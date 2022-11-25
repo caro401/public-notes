@@ -1,3 +1,6 @@
+---
+---
+
 The function signature for a [[Redux is a predictable state container for js|Redux]] reducer is  `(state, action) => newState`. Reducers must follow these rules:
 
 -   They should only calculate the new state value based on the `state` and `action` arguments

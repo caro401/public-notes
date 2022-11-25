@@ -1,3 +1,6 @@
+---
+---
+
 
 ![Book cover for Textile Terms and Definitions from the Textile Institute](https://covers.openlibrary.org/b/id/5015336-M.jpg)
 

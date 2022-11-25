@@ -1,3 +1,6 @@
+---
+---
+
 The [[Redux is a predictable state container for js|Redux]] store is a JavaScript object with a few special functions and abilities:
 
 -  The state inside the Redux store appears as read-only to the rest of the app, since this must be a single source of truth. 

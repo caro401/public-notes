@@ -1,3 +1,6 @@
+---
+---
+
 Introduction to Digital Humanities from Harvard. [Course link](https://www.edx.org/course/introduction-to-digital-humanities) on EdX. Summary from the course page
 
 > As primary sources of information are more frequently digitized and available online than ever before, how can we use those sources to ask new questions? How did Chinese families organize themselves and their landscapes in China’s past? How did African slaves from different cultures form communities in the Americas? What influences informed the creation and evolution of Broadway musicals? How can I understand or interpret 1,000 books all at once? How can I create a visualization that my students can interact with? The answers to these questions can be explored using a wide variety of digital tools, methods, and sources.

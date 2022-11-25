@@ -1,4 +1,4 @@
-title:               Notes
+title:               "Caro is thinking out loud"
 include:             ['_pages']
 exclude:
  - _includes/notes_graph.json

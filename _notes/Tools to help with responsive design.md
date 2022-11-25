@@ -6,7 +6,7 @@ I've recently been seeing a bunch of tooling appearing that helps you view your 
 
 - [everysize](https://everysize-app.kibalabs.com/) - a webpage
 - [Responsively](https://responsively.app/) - open source standalone app, all platforms
-
+- there's also [Polypane](https://polypane.app) but I've not used it - I don't do enough web development to justify a browser on a subscription plan.
 
 
 ### Further Reading
