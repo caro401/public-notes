@@ -1,7 +1,8 @@
 ---
 id: 20221206112348-work-clean
+created: 2022-12-06T16:44
+updated: 2022-12-06T16:44
 ---
-# Work Clean by Dan Charnas
 
 Read December 2022
 
