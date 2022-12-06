@@ -26,3 +26,4 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
 
 - [Vävstuga](https://vavstuga.com) has a bunch of resources, mostly relating to Swedish weaving. This includes books and videos, as well as in person classes in America
 
+/
